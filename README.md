@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CRI-IGH
-- 👀 I’m interested in trolling on Twitter
+- 👀 I'm interested in .NET MAUI, AI, and the general automation of industrial processes.
 - 🌱 I’m currently learning to perfect the flight behavior of non-military drones using AI.
-- 💞️ I’m looking to collaborate on ICQ
 - 📫 How to reach me: Christopher.Grabs@outlook.com
 - ⚡ Fun fact: Out of the 7.7 billion people in the world, more than 6 billion people have access to a mobile phone. Compared to only 4.5 billion people who have access to a working toilet.
 
